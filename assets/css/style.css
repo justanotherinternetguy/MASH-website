@@ -17,10 +17,6 @@
     --border-radius: 8px;
 }
 
-/*
- * [Modified] Modern CSS Reset
- * @link https://github.com/hankchizljaw/modern-css-reset
-*/
 /* Box sizing rules */
 *,
 *::before,
@@ -145,9 +141,6 @@ main>div.container #about {
     grid-gap: 4rem;
 }
 
-main:focus {
-    outline: none;
-}
 
 main h3 {
     color: var(--color-secondary);
