@@ -575,6 +575,7 @@ a.link-github:hover svg {
     min-width: 100px;
     max-width: 500px;
     min-height: 100px;
+    padding: 5%;
     text-align: center;
     border: 3px transparent solid;
     transition: all ease 0.3s;
